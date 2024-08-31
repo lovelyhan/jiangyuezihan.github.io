@@ -1,5 +1,5 @@
 <!-- <a href="https://github.com/OpenBMB/MiniCPM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&amp;repo=MiniCPM" alt="Readme Card" /></a></p><p><a href="https://github.com/thunlp/OpenDelta"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thunlp&amp;repo=OpenDelta" alt="Readme Card" /></a></p><p><a href="https://github.com/thunlp/OpenPrompt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thunlp&amp;repo=OpenPrompt" alt="Readme Card" /></a></p><p><a href="https://github.com/thunlp/PromptPapers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thunlp&amp;repo=PromptPapers" alt="Readme Card" /></a></p><p><a href="https://github.com/OpenBMB/InfiniteBench"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&amp;repo=InfiniteBench" alt="Readme Card" /></a></p><p><a href="https://github.com/OpenBMB/BMPrinciples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&amp;repo=BMPrinciples" alt="Readme Card" /></a></p> -->
-
+<!-- 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 <!--     <a href="https://github.com/OpenBMB/MiniCPM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&amp;repo=MiniCPM" alt="Readme Card" /></a> -->
     <a href="https://github.com/OpenBMB/BMTrain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&amp;repo=BMTrain" alt="Readme Card" /></a>
@@ -12,5 +12,5 @@
     <a href="https://github.com/JerryYin777/Cr_Research_Toolchain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JerryYin777&amp;repo=Cr_Research_Toolchain" alt="Readme Card"  /></a>
 
     
-</div>
+</div> -->
 

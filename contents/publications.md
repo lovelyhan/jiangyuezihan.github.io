@@ -1,7 +1,9 @@
-For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
+* Equal contribution, # Corresponding author: 
 
-- *W. Zhu, Y. Ni, <strong><strong>C. Yin</strong></strong>, A. Tian, X. Wang, G. Xie. (2024). IAPT: Instance-Aware Prompt Turing for Large Language Models. The 62nd Annual Meeting of the Association for Computational Linguistics <strong><strong>(ACL 2024)</strong></strong>.*[[Paper]](https://arxiv.org/pdf/2405.18203)
+- Miao, X., Zhang, W., <strong><strong>Jiang, Y.</strong></strong>, Fu, F., Shao, Y., Chen, L., ... & Cui, B. (2023). P 2 CG: A privacy preserving collaborative graph neural network training framework. The VLDB Journal<strong><strong>(VLDBJ 2023) </strong></strong>.*[[Paper]](https://link.springer.com/article/10.1007/s00778-022-00768-8)
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing <strong><strong>(ICASSP 2023)</strong></strong>.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
+- Zhang, W., Sheng, Z., Yin, Z., <strong><strong>Jiang, Y.</strong></strong>, Xia, Y., Gao, J., ... & Cui, B. (2022). Model degradation hinders deep graph neural networks. In Proceedings of the 28th ACM SIGKDD conference on knowledge discovery and data mining<strong><strong>(KDD 2022) </strong></strong>.*[[Paper]](https://arxiv.org/pdf/2108.00955)
 
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition <strong><strong>(ISPP 2023)</strong></strong>.* [[Paper]](https://doi.org/10.1117/12.2681344)
+- <strong><strong>Jiang, Y*.</strong></strong>, Cheng, Y.*, Zhao, H., Zhang, W., Miao, X., He, Y., ... & Cui, B. (2022). Zoomer: Boosting retrieval on web-scale graphs by regions of interest. In 2022 IEEE 38th International Conference on Data Engineering <strong><strong>(ICDE 2022) </strong></strong>.*[[Paper]](https://arxiv.org/pdf/2203.125963)
+
+- Zhang, W., <strong><strong>Jiang, Y.</strong></strong>, Li, Y., Sheng, Z., Shen, Y., Miao, X., ... & Cui, B. (2021). ROD: reception-aware online distillation for sparse graphs. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining <strong><strong>(KDD 201) </strong></strong>.*[[Paper]](https://arxiv.org/pdf/2107.11789)
